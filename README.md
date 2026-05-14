@@ -1,4 +1,4 @@
-# PG-C2F: Gaussian Prior-Guided Pseudo Mask Generation for Point-Supervised Infrared Small Target Detection
+# [PG-C2F:](https://ieeexplore.ieee.org/document/11501720) Gaussian Prior-Guided Pseudo Mask Generation for Point-Supervised Infrared Small Target Detection
 
 
 
